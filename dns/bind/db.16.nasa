@@ -1,0 +1,28 @@
+;
+; BIND reverse data file for broadcast zone
+;
+$TTL	604800
+@	IN	SOA	ns1.16.nasa. root.16.nasa. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+16.nasa.	IN	NS	ns1.16.nasa.
+@       IN      MX      10      mail.16.nasa.
+@	IN	TXT	"v=spf1 a mx ipv4:192.168.16.25 -all"
+_dmarc	IN	TXT	"v=DMARC1; p=reject"
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; t=y; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2YHS2svufyTkwpoV5iQljw19VF/uXrZ8wFXVIJcd7jwaeMZEIOyF1cb8yVzFYzNz/wE2HH5m1gJJaOqOJo7XhDn7Fh7rd64AjQrCcju4gfxzUGlaxMEGNApk8VxD1J7+4udp4PtV/SuQ1Qa0zlceRlt1KhsRI3bdaTnJ0HsPL9aFSBAKMppTP9s5V2TAk2wydVJi8QeIUo+OGH"
+	  "6Jy7Y0CcpXjU9d6l0jcDK6io+3zAXIU9FlsoMH+/6if5z06jVcpVbIDDskAOPIqMRO3J0mUFOsjvZdlqn07BNqCcqBVl3bMcDyx30/2gVOCBsmPR9LDLmT/2FV4YCTOHmtvdi9MQIDAQAB" )  ; ----- DKIM key mail for 16.nasa
+mail    IN      A       192.168.16.25
+ns1     IN      A       192.168.16.53
+dns     IN      A       192.168.16.153
+whoami  IN      A       10.113.16.1
+ldap	IN	A	192.168.16.40
+workstation	IN	A	192.168.16.41
+
+$INCLUDE /etc/bind/keys/K16.nasa.+013+27990.key
+$INCLUDE /etc/bind/keys/K16.nasa.+013+48303.key
+

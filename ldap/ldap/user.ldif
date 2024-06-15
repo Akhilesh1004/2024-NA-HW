@@ -1,0 +1,25 @@
+#dn: uid=generalta,ou=People,dc=16,dc=nasa
+#uid: generalta
+#userPassword: {SSHA}e/vfWA59ju9kvwVmwilhlCyqEZqJ//iX
+#uidNumber: 10000
+#cn: generalta
+#gidNumber: 10000
+#homeDirectory: /home/nasa/generalta/
+#objectClass: posixAccount
+#objectClass: shadowAccount
+#objectClass: ldapPublicKey
+#objectClass: account
+#sshPublicKey: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPedeG/ZoQUNLqbMn+1b303DjJWLtuXXb8chEv6KBTGm 2023-na-hw4
+
+dn: uid=stu16,ou=People,dc=16,dc=nasa
+uid: stu16
+userPassword: {SSHA}e/vfWA59ju9kvwVmwilhlCyqEZqJ//iX
+uidNumber: 20016
+cn: stu16
+gidNumber: 20000
+homeDirectory: /home/nasa/stu16/
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: account
+
+

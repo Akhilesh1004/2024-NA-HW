@@ -1,0 +1,51 @@
+tls local-tls {
+        cert-file "/var/cache/bind/cert_chain.pem";
+        key-file "/var/cache/bind/priv_key.pem";
+//      remote-hostname "dns.16.nasa";
+};
+
+http local-http-server {
+	endpoints { "/dns-query"; };
+};
+
+options {
+	directory "/var/cache/bind";
+	empty-zones-enable no;
+	// If there is a firewall between you and nameservers you want
+	// to talk to, you may need to fix the firewall to allow multiple
+	// ports to talk.  See http://www.kb.cert.org/vuls/id/800113
+
+	// If your ISP provided one or more IP addresses for stable 
+	// nameservers, you probably want to use them as forwarders.  
+	// Uncomment the following block, and insert the addresses replacing 
+	// the all-0's placeholder.
+	allow-query {
+		10.113.0.0/24;
+		10.113.16.0/24;
+		192.168.16.0/24;
+	};
+	allow-recursion { any; };
+	#allow-transfer { none; };
+	forwarders {
+//		192.168.254.3;
+//		192.168.16.53;
+		1.1.1.1;
+	};
+	forward only;
+	//========================================================================
+	// If BIND logs error messages about the root key being expired,
+	// you will need to update your keys.  See https://www.isc.org/bind-keys
+	//========================================================================
+	dnssec-validation no;
+	recursion yes;
+	querylog yes;
+	listen-on { any; };
+	listen-on port 853 tls local-tls { any; };
+//	listen-on port 443 { any; };
+	listen-on port 443 tls local-tls http local-http-server { any; };
+//	listen-on tls local-tls { any; };
+//	tls-certfile "/etc/bind/cert/cert_chain.pem";
+//	tls-keyfile "/etc/bind/cert/priv_key.pem";
+//	tls-require-client-certificate no;
+	//listen-on-v6 { any; };
+};

@@ -1,0 +1,22 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+zone "16.nasa" IN {
+	type master;
+	file "/etc/bind/db.16.nasa.signed";
+	allow-transfer{ 192.168.16.153; };
+//	dnssec-policy default;
+//	key-directory "/etc/bind/keys";
+//	inline-signing yes;
+};
+
+zone "16.168.192.in-addr.arpa" IN {
+	type master;
+	file "/etc/bind/db.ns1.16.nasa.signed";
+	allow-transfer{ 192.168.16.153; };
+};

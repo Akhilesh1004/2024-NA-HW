@@ -1,0 +1,10 @@
+dn: cn=config
+changetype: modify
+add: olcTLSCACertificateFile
+olcTLSCACertificateFile: /etc/certs/cert.pem
+-
+add: olcTLSCertificateFile
+olcTLSCertificateFile: /etc/certs/ca.pem
+-
+add: olcTLSCertificateKeyFile
+olcTLSCertificateKeyFile: /etc/certs/cert.key

@@ -1,0 +1,20 @@
+;
+; BIND reverse data file for broadcast zone
+;
+$TTL	604800
+@	IN	SOA	ns1.16.nasa. root.16nasa. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	ns1.16.nasa.
+53      IN      PTR     ns1.16.nasa.
+153     IN      PTR     dns.16.nasa.
+25	IN	PTR	mail.16.nasa.
+40	IN	PTR	ldap.16.nasa.
+41	IN	PTR	workstation.16.nasa.
+
+$INCLUDE /etc/bind/K16.168.192.in-addr.arpa.+013+34077.key
+$INCLUDE /etc/bind/K16.168.192.in-addr.arpa.+013+49918.key

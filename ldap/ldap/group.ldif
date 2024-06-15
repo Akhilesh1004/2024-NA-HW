@@ -1,0 +1,9 @@
+dn: cn=ta,ou=Group,dc=16,dc=nasa
+objectClass: posixGroup
+cn: ta
+gidNumber: 10000
+
+dn: cn=stu,ou=Group,dc=16,dc=nasa
+objectClass: posixGroup
+cn: stu
+gidNumber: 20000

@@ -1,0 +1,17 @@
+# AUTO-GENERATED FILE - DO NOT EDIT!! Use ldapmodify.
+# CRC32 6aedfa59
+dn: cn={4}opensshLPK
+objectClass: olcSchemaConfig
+cn: {4}opensshLPK
+olcAttributeTypes: {0}( 1.3.6.1.4.1.24552.500.1.1.1.13 NAME 'sshPublicKey' DES
+ C 'OpenSSH Public key' EQUALITY octetStringMatch SYNTAX 1.3.6.1.4.1.1466.115.
+ 121.1.40 )
+olcObjectClasses: {0}( 1.3.6.1.4.1.24552.500.1.1.2.0 NAME 'ldapPublicKey' SUP 
+ top AUXILIARY DESC 'OpenSSH LPK objectclass' MUST uid MAY sshPublicKey )
+structuralObjectClass: olcSchemaConfig
+entryUUID: b00c6066-b9bb-103e-894c-e5d8c0519227
+creatorsName: gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth
+createTimestamp: 20240608082019Z
+entryCSN: 20240608082019.468461Z#000000#000#000000
+modifiersName: gidNumber=0+uidNumber=0,cn=peercred,cn=external,cn=auth
+modifyTimestamp: 20240608082019Z

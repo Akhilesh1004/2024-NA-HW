@@ -1,0 +1,44 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+
+
+zone "nasa." {
+	type forward;
+//	NS 192.168.254.3
+	forwarders { 192.168.254.3; };
+//	forward only;
+};
+
+zone "168.192.in-addr.arpa" {
+	type forward;
+	forwarders { 192.168.254.3; };
+	forward only;
+};
+
+//zone "254.nasa" {
+//	type forward;
+//	forwarders { 192.168.254.53; };
+//	forward only;
+//};
+
+zone "254.168.192.in-addr.arpa" {
+        type forward;
+        forwarders { 192.168.254.53; };
+        forward only;
+};
+
+zone "16.168.192.in-addr.arpa" {
+	type forward;
+	forwarders { 192.168.16.53; };
+	forward only;
+};
+
+//zone "16.nasa" {
+//	type forward;
+//	forwarders { 192.168.16.53; };
+//	forward only;
+//};

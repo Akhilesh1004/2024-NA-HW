@@ -1,0 +1,2399 @@
+dn: cn=fortune-7,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-7
+author: Gandhi
+id: 7
+description: "Happiness is when what you think
+
+dn: cn=fortune-14,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-14
+author: Rosalyn S.Yalow
+id: 14
+description: "The excitement of learning separates youth from old age. As long as you're learning
+
+dn: cn=fortune-240,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-240
+author: Theodor Seuss Geisel
+id: 240
+description: When spider webs unite they can tie up a lion.
+
+dn: cn=fortune-61,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-61
+author: Lyman Abbott
+id: 61
+description: Patience is passion tamed.
+
+dn: cn=fortune-86,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-86
+author: Chuck Palahniuk - Fight Club
+id: 86
+description: "Guys
+
+dn: cn=fortune-29,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-29
+author: Richard Kline
+id: 29
+description: Confidence is preparation. Everything else is beyond your control.
+
+dn: cn=fortune-248,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-248
+author: Chinese Proverb
+id: 248
+description: Tell me and I'll forget; show me and I may remember; involve me and I'll understand.
+
+dn: cn=fortune-51,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-51
+author: Albert Einstein
+id: 51
+description: "Imagination is more important than knowledge. For knowledge is limited to all we now know and understand
+
+dn: cn=fortune-81,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-81
+author: Chuck Palahniuk - Fight Club
+id: 81
+description: "Is that what a real man is supposed to look like? (narrator
+
+dn: cn=fortune-198,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-198
+author: Charles Swindoll
+id: 198
+description: We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+
+dn: cn=fortune-300,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-300
+author: Robert J. Collier
+id: 300
+description: "Start where you are. Distant fields always look greener
+
+dn: cn=fortune-52,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-52
+author: Jim Rohn
+id: 52
+description: Give whatever you are doing and whoever you are with the gift of your attention.
+
+dn: cn=fortune-155,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-155
+author: Betty Smith
+id: 155
+description: Look at everything as though you were seeing it either for the first or last time
+
+dn: cn=fortune-286,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-286
+author: Alan Alda
+id: 286
+description: "Laugh at yourself
+
+dn: cn=fortune-22,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-22
+author: Charles F. Kettering
+id: 22
+description: Problems are the price of progress.
+
+dn: cn=fortune-225,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-225
+author: Alan Cohen
+id: 225
+description: Appreciation...acknowledges the presence of good wherever you shine the light of your thankful thoughts.
+
+dn: cn=fortune-47,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-47
+author: Mary Engelbreit
+id: 47
+description: "If you don't like something change it; if you can't change it
+
+dn: cn=fortune-216,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-216
+author: Ralph Waldo Emerson
+id: 216
+description: Life has meaning only if one barters it day by day for something other than itself.
+
+dn: cn=fortune-178,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-178
+author: Eric Schaub
+id: 178
+description: It is in the shelter of each other that the people live.
+
+dn: cn=fortune-56,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-56
+author: Albert Einstein
+id: 56
+description: The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift.
+
+dn: cn=fortune-143,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-143
+author: Benjamin Franklin
+id: 143
+description: Life's tragedy is that we get old too soon and wise too late.
+
+dn: cn=fortune-211,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-211
+author: Don Marquis
+id: 211
+description: "We are all in the same boat in a stormy sea
+
+dn: cn=fortune-268,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-268
+author: Harriet Beecher Stowe
+id: 268
+description: "When you get in a tight place and everything goes against you
+
+dn: cn=fortune-105,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-105
+author: Tom Robbins
+id: 105
+description: "Stay committed in your decisions
+
+dn: cn=fortune-282,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-282
+author: Ralph Marston
+id: 282
+description: "The keys to patience are acceptance and faith. Accept things as they are
+
+dn: cn=fortune-110,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-110
+author: Niels Bohr
+id: 110
+description: An expert is a person who has made all the mistakes that can be made in a very narrow field.
+
+dn: cn=fortune-19,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-19
+author: Albert Camus
+id: 19
+description: Don't walk in front of me; I may not follow. Don't walk behind me; I may not lead. Just walk beside me and be my friend.
+
+dn: cn=fortune-132,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-132
+author: Benjamin Franklin
+id: 132
+description: "By failing to prepare
+
+dn: cn=fortune-234,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-234
+author: Wayne Muller
+id: 234
+description: "Within sorrow is grace. When we come close to those things that break us down
+
+dn: cn=fortune-5,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-5
+author: Plato
+id: 5
+description: "Be kind
+
+dn: cn=fortune-98,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-98
+author: Jack Kornfield
+id: 98
+description: "Have respect for yourself
+
+dn: cn=fortune-71,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-71
+author: Chuck Palahniuk - Fight Club
+id: 71
+description: "You're not your job. You're not how much money you have in the bank.  You're not the car you drive. You're not the contents of your wallet.  You're not your fucking khakis. You're the all-singing
+
+dn: cn=fortune-28,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-28
+author: Bassho
+id: 28
+description: Nothing in the cry of cicadas suggests they are about to die.
+
+dn: cn=fortune-237,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-237
+author: Plutarch
+id: 237
+description: "A mind is a fire to be kindled
+
+dn: cn=fortune-232,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-232
+author: Flavia Weedn
+id: 232
+description: "If one dream should fall and break into a thousand pieces
+
+dn: cn=fortune-241,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-241
+author: African Proverb
+id: 241
+description: .
+
+dn: cn=fortune-109,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-109
+author: Bruce Lee
+id: 109
+description: "Be formless
+
+dn: cn=fortune-127,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-127
+author: Denis Waitley
+id: 127
+description: "There is only one big risk you should avoid at all costs
+
+dn: cn=fortune-122,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-122
+author: Nietzsche
+id: 122
+description: "Faith as an imperative is a veto against science -- in praxi
+
+dn: cn=fortune-31,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-31
+author: Spencer Johnson
+id: 31
+description: Integrity is telling myself the truth. And honesty is telling the truth to other people.
+
+dn: cn=fortune-33,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-33
+author: Shakespeare
+id: 33
+description: Meet the first beginnings. Look to the budding mischief before it has time to ripen to maturity.
+
+dn: cn=fortune-277,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-277
+author: Frank Byrnes
+id: 277
+description: Respect is love in plain clothes.
+
+dn: cn=fortune-245,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-245
+author: James Allen
+id: 245
+description: "Above all be of single aim; have a legitimate and useful purpose
+
+dn: cn=fortune-255,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-255
+author: Paulo Coelho
+id: 255
+description: "By sharing something
+
+dn: cn=fortune-173,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-173
+author: Roger Staubach
+id: 173
+description: There are no traffic jams along the extra mile.
+
+dn: cn=fortune-2,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-2
+author: Michelangelo
+id: 2
+description: "The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low
+
+dn: cn=fortune-193,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-193
+author: Franklin D. Roosevelt
+id: 193
+description: Just go out there and do what you've got to do.
+
+dn: cn=fortune-53,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-53
+author: Miguel Ruiz
+id: 53
+description: "When you are immune to the opinions and actions of others
+
+dn: cn=fortune-267,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-267
+author: Nancy Coey
+id: 267
+description: "When work
+
+dn: cn=fortune-13,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-13
+author: Albert Einstein
+id: 13
+description: Logic will get you from A to B. Imagination will take you everywhere.
+
+dn: cn=fortune-231,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-231
+author: Anaïs Nin
+id: 231
+description: And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.
+
+dn: cn=fortune-247,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-247
+author: Lloyd Alexander
+id: 247
+description: We learn more by looking for the answer to a question and not finding it than we do from learning the answer itself.
+
+dn: cn=fortune-27,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-27
+author: Brian Tracy
+id: 27
+description: You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+
+dn: cn=fortune-46,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-46
+author: Buddha
+id: 46
+description: Your work is to discover your world and then with all your heart give yourself to it.
+
+dn: cn=fortune-223,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-223
+author: Pope John XXIII
+id: 223
+description: "Consult not your fears but your hopes and your dreams. Think not about your frustrations
+
+dn: cn=fortune-224,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-224
+author: Ashley Smith
+id: 224
+description: "Life is full of beauty. Notice it. Notice the bumble bee
+
+dn: cn=fortune-30,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-30
+author: Dalai Lama
+id: 30
+description: Happiness is not something ready made. It comes from your own actions.
+
+dn: cn=fortune-278,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-278
+author: Bill Bradley
+id: 278
+description: "Respect your fellow human being
+
+dn: cn=fortune-25,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-25
+author: Brandi Snyder
+id: 25
+description: "To the world you may be just one person
+
+dn: cn=fortune-113,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-113
+author: Plutarch
+id: 113
+description: The whole life of a man is but a point in time; let us enjoy it.
+
+dn: cn=fortune-106,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-106
+author: Richard Feynman
+id: 106
+description: "I don't know what's the matter with people: they don't learn by understanding
+
+dn: cn=fortune-135,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-135
+author: Benjamin Franklin
+id: 135
+description: Never confuse motion with action.
+
+dn: cn=fortune-291,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-291
+author: Washington Irving
+id: 291
+description: "A kind heart is a fountain of gladness
+
+dn: cn=fortune-121,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-121
+author: Byron Katie
+id: 121
+description: Would you rather be right or free?
+
+dn: cn=fortune-230,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-230
+author: Josie Bisset
+id: 230
+description: Dreams come in a size too big so that we may grow into them.
+
+dn: cn=fortune-42,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-42
+author: Henry Chester
+id: 42
+description: "Enthusiasm is the greatest asset in the world. It beats money
+
+dn: cn=fortune-186,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-186
+author: E. Joseph Cossman
+id: 186
+description: The greatest power is often simple patience.
+
+dn: cn=fortune-295,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-295
+author: Jeffery Bryant
+id: 295
+description: "Parents
+
+dn: cn=fortune-136,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-136
+author: Benjamin Franklin
+id: 136
+description: Do not fear mistakes. You will know failure. Continue to reach out.
+
+dn: cn=fortune-144,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-144
+author: Bob Dylan
+id: 144
+description: "If you don't underestimate me
+
+dn: cn=fortune-150,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-150
+author: Karen Maezen Miller
+id: 150
+description: Happiness is simple. Everything we do to find it is complicated.
+
+dn: cn=fortune-79,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-79
+author: Chuck Palahniuk - Fight Club
+id: 79
+description: We are all part of the same compost heap. (talking about consumerism)
+
+dn: cn=fortune-272,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-272
+author: Lou Austin
+id: 272
+description: "You are here for a purpose. There is no duplicate of you in the whole wide world. There never has been
+
+dn: cn=fortune-235,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-235
+author: Stedman Graham
+id: 235
+description: "When you have a sense of your own identity and a vision of where you want to go in your life
+
+dn: cn=fortune-10,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-10
+author: Buddha
+id: 10
+description: "You
+
+dn: cn=fortune-34,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-34
+author: Gandhi
+id: 34
+description: "As human beings
+
+dn: cn=fortune-233,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-233
+author: William Hazlitt
+id: 233
+description: Gracefulness has been defined to be the outward expression of the inward harmony of the soul.
+
+dn: cn=fortune-185,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-185
+author: Ralph Waldo Emmerson
+id: 185
+description: Adopt the pace of nature: her secret is patience.
+
+dn: cn=fortune-271,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-271
+author: Don Williams Jr.
+id: 271
+description: "The road of life twists and turns and no two directions are ever the same. Yet our lessons come from the journey
+
+dn: cn=fortune-75,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-75
+author: Chuck Palahniuk - Fight Club
+id: 75
+description: "Do you know what a duvet is?...It's a blanket. Just a blanket.  Now why do guys like you and me know what a duvet is?  Is this essential to our survival
+
+dn: cn=fortune-116,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-116
+author: Dr. David Schwartz
+id: 116
+description: "When you believe something can be done
+
+dn: cn=fortune-111,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-111
+author: Thich Nhat Hanh
+id: 111
+description: "There is no way to happiness
+
+dn: cn=fortune-161,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-161
+author: Chinese Proverb
+id: 161
+description: Tension is who you think you should be. Relaxation is who you are.
+
+dn: cn=fortune-221,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-221
+author: Arthur H. Stainback
+id: 221
+description: The value of compassion cannot be over-emphasized. Anyone can criticize. It takes a true believer to be compassionate. No greater burden can be borne by an individual than to know no one cares or understands.
+
+dn: cn=fortune-108,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-108
+author: Walt Disney
+id: 108
+description: "When you're curious
+
+dn: cn=fortune-250,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-250
+author: Albert Einstein
+id: 250
+description: Only a life lived for others is worth living.
+
+dn: cn=fortune-196,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-196
+author: Henry Ward Beecher
+id: 196
+description: No amount of ability is of the slightest avail without honor.
+
+dn: cn=fortune-43,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-43
+author: Swedish Proverb
+id: 43
+description: The best place to find a helping hand is at the end of your own arm.
+
+dn: cn=fortune-151,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-151
+author: Chinese Proverb
+id: 151
+description: The journey is the reward.
+
+dn: cn=fortune-36,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-36
+author: Jesse Jackson
+id: 36
+description: Never look down on anybody unless you're helping him up.
+
+dn: cn=fortune-263,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-263
+author: Jose Ortega y Gasset
+id: 263
+description: "Life means to have something definite to do
+
+dn: cn=fortune-153,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-153
+author: Oscar Wilde
+id: 153
+description: Be yourself; everyone else is already taken.
+
+dn: cn=fortune-133,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-133
+author: Benjamin Franklin
+id: 133
+description: "When you're finished changing
+
+dn: cn=fortune-158,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-158
+author: Eli Khamarov
+id: 158
+description: "The best things in life are unexpected
+
+dn: cn=fortune-16,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-16
+author: Chinese Proverb
+id: 16
+description: He who deliberates fully before taking a step will spend his entire life on one leg.
+
+dn: cn=fortune-66,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-66
+author: Wayne Dyer
+id: 66
+description: What other people think of me is none of my business.
+
+dn: cn=fortune-192,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-192
+author: Fredrick Faber
+id: 192
+description: There are souls in this world which have the gift of finding joy everywhere and of leaving it behind them when they go.
+
+dn: cn=fortune-82,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-82
+author: Chuck Palahniuk - Fight Club
+id: 82
+description: "Fuck what you know. You need to forget about what you know
+
+dn: cn=fortune-294,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-294
+author: John D. MacDonald
+id: 294
+description: "Integrity is not a conditional word. It doesn't blow in the wind or change with the weather. It is your inner image of yourself
+
+dn: cn=fortune-209,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-209
+author: Thomas Jefferson
+id: 209
+description: Work is either fun or drudgery. It depends on your attitude. I like fun.
+
+dn: cn=fortune-175,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-175
+author: Jim Rohn
+id: 175
+description: Water continually dropping will wear hard rocks hollow.
+
+dn: cn=fortune-270,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-270
+author: Pamela Vaull Starr
+id: 270
+description: "Reach high
+
+dn: cn=fortune-210,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-210
+author: Colleen C. Barrett
+id: 210
+description: "All the so-called ""secrets of success"" will not work unless you do."
+
+dn: cn=fortune-171,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-171
+author: "Martin Luther King
+id: 171
+description:  Jr."
+
+dn: cn=fortune-134,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-134
+author: Benjamin Franklin
+id: 134
+description: "All mankind is divided into three classes: those that are immovable
+
+dn: cn=fortune-3,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-3
+author: Gerry Spence
+id: 3
+description: I would rather have a mind opened by wonder than one closed by belief.
+
+dn: cn=fortune-222,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-222
+author: Frederick Buechner
+id: 222
+description: Compassion is sometimes the fatal capacity for feeling what it is like to live inside somebody else's skin. It is the knowledge that there can never really be any peace and joy for me until there is peace and joy finally for you too.
+
+dn: cn=fortune-83,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-83
+author: Chuck Palahniuk - Fight Club
+id: 83
+description: Hitting bottom isn't a weekend retreat. It's not a goddamn seminar.  Stop trying to control everything and just let go! LET GO!
+
+dn: cn=fortune-207,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-207
+author: Mary Engelbreit
+id: 207
+description: Open your heart -- open it wide; someone is standing outside.
+
+dn: cn=fortune-220,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-220
+author: Indian Proverb
+id: 220
+description: No one's head aches when he is comforting another.
+
+dn: cn=fortune-243,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-243
+author: Ross Parmenter
+id: 243
+description: "My belief is that personal freedom cannot grow beyond personal responsibility. The more people that learn to be fully accountable for their lives
+
+dn: cn=fortune-104,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-104
+author: Richard Feynman
+id: 104
+description: Everything we know is only some kind of approximation.
+
+dn: cn=fortune-1,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-1
+author: Richard Feynman
+id: 1
+description: The first principle is that you must not fool yourself -- and you are the easiest person to fool.
+
+dn: cn=fortune-64,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-64
+author: Refus Global
+id: 64
+description: "All of them
+
+dn: cn=fortune-80,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-80
+author: Chuck Palahniuk - Fight Club
+id: 80
+description: How embarrassing...a house full of condiments and no food. (a synecdoche for modern consumer driven life)
+
+dn: cn=fortune-275,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-275
+author: Debbie Coulter
+id: 275
+description: Dream your dream. Follow your heart. Imagine. Listen to the wind. Drink sunsets. Be free. Let the wonder never cease. Believe. Wish on EVERY star. Create adventure. Be Kind.
+
+dn: cn=fortune-288,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-288
+author: Henry Ward Beecher
+id: 288
+description: "Hold yourself responsible for a higher standard than anybody else expects of you
+
+dn: cn=fortune-45,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-45
+author: Sébastien-Roch Nicolas De Chamfort
+id: 45
+description: Pleasure can be supported by an illusion; but happiness rests upon truth.
+
+dn: cn=fortune-120,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-120
+author: Nietzsche
+id: 120
+description: "Everyone who has ever built anywhere a ""new heaven"" first found the power thereto in his own hell"
+
+dn: cn=fortune-65,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-65
+author: Wayne Dyer
+id: 65
+description: "When you live on a round planet
+
+dn: cn=fortune-284,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-284
+author: Earl Gray Stevens
+id: 284
+description: "Confidence
+
+dn: cn=fortune-54,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-54
+author: https://twitter.com/#!/GodlessAtheist
+id: 54
+description: Tip: When deciding on defense or education spending ask yourself how many terrorist do you see in a day compared to how many fucking idiots
+
+dn: cn=fortune-23,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-23
+author: Mahatma Gandhi
+id: 23
+description: Strength does not come from physical capacity. It comes from an indomitable will.
+
+dn: cn=fortune-170,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-170
+author: Ferdinand Foch
+id: 170
+description: The most powerful weapon on earth is the human soul on fire.
+
+dn: cn=fortune-99,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-99
+author: Oscar Wilde
+id: 99
+description: The smallest act of kindness is worth more than the grandest intention.
+
+dn: cn=fortune-163,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-163
+author: Mark Messier
+id: 163
+description: The only pressure I'm under is the pressure I've put on myself.
+
+dn: cn=fortune-112,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-112
+author: John Allen Paulos
+id: 112
+description: "Uncertainty is the only certainty there is
+
+dn: cn=fortune-85,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-85
+author: Chuck Palahniuk - Fight Club
+id: 85
+description: Only after disaster can we be resurrected.
+
+dn: cn=fortune-253,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-253
+author: Lyndon B. Johnson
+id: 253
+description: "As man draws nearer to the stars
+
+dn: cn=fortune-59,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-59
+author: Horace
+id: 59
+description: "Begin
+
+dn: cn=fortune-203,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-203
+author: Carlos Casteneda
+id: 203
+description: "Once you choose hope
+
+dn: cn=fortune-97,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-97
+author: Charles de Montesquieu
+id: 97
+description: "To become truly great
+
+dn: cn=fortune-239,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-239
+author: Wanda Hope Carter
+id: 239
+description: "Take control of your destiny. Believe in yourself. Ignore those who try to discourage you. Avoid negative sources
+
+dn: cn=fortune-50,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-50
+author: Joan Borysenko
+id: 50
+description: Every day brings a choice: to practice stress or to practice peace.
+
+dn: cn=fortune-129,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-129
+author: Aristotle
+id: 129
+description: Happiness depends upon ourselves.
+
+dn: cn=fortune-93,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-93
+author: Chuck Palahniuk - Fight Club
+id: 93
+description: If you are reading this then this warning is for you.  Every word you read of this useless fine print is another second off your life. Don't you have other things to do? Is your life so empty that you honestly can't think of a better way to spend these moments? Or are you so impressed with authority that you give respect and credence to all that claim it? Do you read everything you're supposed to read? Do you think every thing you're supposed to think? Buy what you're told to want? Get out of your apartment. Meet a member of the opposite sex. Stop the excessive shopping and masturbation. Quit your job. Start a fight. Prove you're alive. If you don't claim your humanity you will become a statistic. You have been warned.
+
+dn: cn=fortune-157,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-157
+author: Lao Tzu
+id: 157
+description: "If you realize that you have enough
+
+dn: cn=fortune-195,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-195
+author: Gamaliel Bradford
+id: 195
+description: "In great matters men show themselves as they wish to be seen; in small matters
+
+dn: cn=fortune-281,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-281
+author: Harriet Tubman
+id: 281
+description: "Every great dream begins with a dreamer. Always remember
+
+dn: cn=fortune-191,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-191
+author: Jean de La Fontaine
+id: 191
+description: "The heart may be broken
+
+dn: cn=fortune-37,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-37
+author: Harry Kemp
+id: 37
+description: "The poor man is not he who is without a cent
+
+dn: cn=fortune-62,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-62
+author: Leo Tolstoy
+id: 62
+description: The two most powerful warriors are patience and time.
+
+dn: cn=fortune-299,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-299
+author: Anthony Robbins
+id: 299
+description: "Live life fully while you're here. Experience everything. Take care of yourself and your friends. Have fun
+
+dn: cn=fortune-197,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-197
+author: Andrew Carnegie
+id: 197
+description: Better keep yourself clean and bright. You are the window through which you must see the world.
+
+dn: cn=fortune-182,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-182
+author: Zora Neale Hurst
+id: 182
+description: Love makes your soul crawl out from its hiding place.
+
+dn: cn=fortune-63,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-63
+author: Henry David Thoreau
+id: 63
+description: "Aim above morality. Be not simply good
+
+dn: cn=fortune-114,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-114
+author: George Bernard Shaw
+id: 114
+description: The possibilities are numerous once we decide to act and not react.
+
+dn: cn=fortune-147,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-147
+author: Arnold H. Glasgow
+id: 147
+description: "Make your life a mission
+
+dn: cn=fortune-293,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-293
+author: W. Clement Stone
+id: 293
+description: Have the courage to say no. Have the courage to face the truth. Do the right thing because it is right. These are the magic keys to living your life with integrity.
+
+dn: cn=fortune-107,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-107
+author: Richard Feynman
+id: 107
+description: "Some people say
+
+dn: cn=fortune-32,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-32
+author: Benjamin Franklin
+id: 32
+description: Well done is better than well said.
+
+dn: cn=fortune-12,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-12
+author: Shirley MacLaine
+id: 12
+description: Fear makes strangers of those who would be friends.
+
+dn: cn=fortune-74,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-74
+author: Chuck Palahniuk - Fight Club
+id: 74
+description: The liberator who destroyed my property has realigned my perceptions.
+
+dn: cn=fortune-146,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-146
+author: Edgar Z. Friedenberg
+id: 146
+description: What we must decide is how we are valuable rather than how valuable we are.
+
+dn: cn=fortune-48,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-48
+author: Thich Nhat Hanh
+id: 48
+description: "Because of your smile
+
+dn: cn=fortune-76,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-76
+author: Chuck Palahniuk - Fight Club
+id: 76
+description: "We're consumers. We are byproducts of a lifestyle obsession.  Murder
+
+dn: cn=fortune-119,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-119
+author: Chinese Proverb
+id: 119
+description: A wise man makes his own decisions; an ignorant man follows public opinion.
+
+dn: cn=fortune-90,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-90
+author: Chuck Palahniuk - Fight Club
+id: 90
+description: "God Damn! We just had a near-life experience
+
+dn: cn=fortune-213,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-213
+author: Theodore Roosevelt
+id: 213
+description: It is better to be faithful than famous.
+
+dn: cn=fortune-166,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-166
+author: B. B. King
+id: 166
+description: The beautiful thing about learning is that no one can take it away from you.
+
+dn: cn=fortune-180,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-180
+author: Charlie Brown
+id: 180
+description: For happiness is anyone and anything at all that's loved by you.
+
+dn: cn=fortune-73,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-73
+author: Chuck Palahniuk - Fight Club
+id: 73
+description: "Fuck off with your sofa units and string green stripe patterns
+
+dn: cn=fortune-20,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-20
+author: Jean-Paul Sartre
+id: 20
+description: Freedom is what you do with what's been done to you.
+
+dn: cn=fortune-125,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-125
+author: Anne Morrow Lindbergh
+id: 125
+description: "Only in growth
+
+dn: cn=fortune-139,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-139
+author: Benjamin Franklin
+id: 139
+description: Diligence is the mother of good luck.
+
+dn: cn=fortune-138,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-138
+author: Benjamin Franklin
+id: 138
+description: "Be at war with your vices
+
+dn: cn=fortune-283,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-283
+author: Elisabeth Kübler-Ross
+id: 283
+description: "People are like stained-glass windows. They sparkle and shine when the sun is out
+
+dn: cn=fortune-266,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-266
+author: G. K. Chesterton
+id: 266
+description: To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless.
+
+dn: cn=fortune-215,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-215
+author: Elizabeth Gilbert
+id: 215
+description: "To sit patiently with a yearning that has not yet been fulfilled
+
+dn: cn=fortune-262,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-262
+author: Gail Devers
+id: 262
+description: "Keep your dreams alive. Understand to achieve anything requires faith and belief in yourself
+
+dn: cn=fortune-228,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-228
+author: Frank Tyger
+id: 228
+description: Be a good listener. Your ears will never get you in trouble.
+
+dn: cn=fortune-165,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-165
+author: B. F. Skinner
+id: 165
+description: We shouldn't teach great books; we should teach a love of reading.
+
+dn: cn=fortune-87,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-87
+author: Chuck Palahniuk - Fight Club
+id: 87
+description: Tomorrow will be the most beautiful day of Raymond K. Hessel's life. His breakfast will taste better than any meal you and I have ever tasted. (after Raymond Hessel faces death but lives)
+
+dn: cn=fortune-137,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-137
+author: Benjamin Franklin
+id: 137
+description: "To succeed
+
+dn: cn=fortune-89,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-89
+author: Chuck Palahniuk - Fight Club
+id: 89
+description: "And the eighth and final rule: if this is your first time at Fight Club
+
+dn: cn=fortune-208,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-208
+author: Anonymous
+id: 208
+description: "Strive to be first: first to nod
+
+dn: cn=fortune-69,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-69
+author: Chuck Palahniuk - Fight Club
+id: 69
+description: The things you own end up owning you.
+
+dn: cn=fortune-38,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-38
+author: Gandhi
+id: 38
+description: The weak can never forgive. Forgiveness is the attribute of the strong.
+
+dn: cn=fortune-212,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-212
+author: Louisa May Alcott
+id: 212
+description: "The best things in life are never rationed. Friendship
+
+dn: cn=fortune-297,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-297
+author: Charles F. Kettering
+id: 297
+description: There will always be a frontier where there is an open mind and a willing hand.
+
+dn: cn=fortune-160,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-160
+author: Jon Kabat-Zinn
+id: 160
+description: "Until you stop breathing
+
+dn: cn=fortune-177,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-177
+author: Marcus Aurelius Antoninus
+id: 177
+description: It takes two wings to fly.
+
+dn: cn=fortune-219,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-219
+author: Pema Chodron
+id: 219
+description: "When you begin to touch your heart or let your heart be touched
+
+dn: cn=fortune-174,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-174
+author: Anonymous
+id: 174
+description: The difference between try and triumph is a little umph.
+
+dn: cn=fortune-205,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-205
+author: Anne Lamott
+id: 205
+description: "Hope begins in the dark
+
+dn: cn=fortune-162,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-162
+author: Terry Prachett
+id: 162
+description: "Go on
+
+dn: cn=fortune-117,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-117
+author: Shunryu Suzuki
+id: 117
+description: "Our way to practice is one step at a time
+
+dn: cn=fortune-269,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-269
+author: Zig Ziglar
+id: 269
+description: "It was character that got us out of bed
+
+dn: cn=fortune-96,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-96
+author: Antoine de Saint-Exupery
+id: 96
+description: "Perfection is finally attained not when there is no longer anything to add but when there is no longer anything to take away
+
+dn: cn=fortune-199,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-199
+author: Mary Anne Radmacher
+id: 199
+description: Live with intention. Walk to the edge. Listen hard. Practice wellness. Play with abandon. Laugh. Choose with no regret. Appreciate your friends. Continue to learn. Do what you love. Live as if this is all there is.
+
+dn: cn=fortune-95,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-95
+author: Samuel Johnson
+id: 95
+description: The natural flights of the human mind are not from pleasure to pleasure but from hope to hope.
+
+dn: cn=fortune-264,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-264
+author: Dr. Thomas Dooley
+id: 264
+description: Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end.
+
+dn: cn=fortune-292,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-292
+author: George Santayana
+id: 292
+description: "Our character...is an omen of our destiny
+
+dn: cn=fortune-236,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-236
+author: Father Andre
+id: 236
+description: "What ever beauty may be
+
+dn: cn=fortune-257,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-257
+author: Maya Angelou
+id: 257
+description: "There is something more -- the spirit
+
+dn: cn=fortune-290,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-290
+author: Bill Cosby
+id: 290
+description: "You can turn painful situations around through laughter. If you can find humor in anything
+
+dn: cn=fortune-91,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-91
+author: Chuck Palahniuk - Fight Club
+id: 91
+description: Sticking feathers up your butt does not make you a chicken.
+
+dn: cn=fortune-92,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-92
+author: Chuck Palahniuk - Fight Club
+id: 92
+description: Time to stand up for what you believe in.
+
+dn: cn=fortune-78,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-78
+author: Chuck Palahniuk - Fight Club
+id: 78
+description: "What do you want? Wanna go back to the shit job
+
+dn: cn=fortune-168,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-168
+author: Swedish Proverb
+id: 168
+description: "Those who wish to sing
+
+dn: cn=fortune-41,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-41
+author: Daisaku Ikeda
+id: 41
+description: "If we look at the world with a love of life
+
+dn: cn=fortune-88,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-88
+author: Chuck Palahniuk - Fight Club
+id: 88
+description: "Hey
+
+dn: cn=fortune-115,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-115
+author: Maori Proverb
+id: 115
+description: Turn your face toward the sun and the shadows will fall behind you.
+
+dn: cn=fortune-226,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-226
+author: Mohandas Karamchand Gandhi
+id: 226
+description: The best way to find yourself is to lose yourself in the service of others.
+
+dn: cn=fortune-184,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-184
+author: Barry M. Goldwater
+id: 184
+description: "I will offer a choice
+
+dn: cn=fortune-179,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-179
+author: Irish Proverb
+id: 179
+description: We're here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+
+dn: cn=fortune-72,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-72
+author: Chuck Palahniuk - Fight Club
+id: 72
+description: "Reject the basic assumptions of civilization
+
+dn: cn=fortune-187,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-187
+author: Bonaro W. Overstreet
+id: 187
+description: "Perhaps the most important thing we can undertake toward the reduction of fear is to make it easier for people to accept themselves
+
+dn: cn=fortune-276,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-276
+author: Benjamin Franklin
+id: 276
+description: "The best thing to give to your enemy is forgiveness; to an opponent
+
+dn: cn=fortune-256,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-256
+author: Dr. Leo Buscaglia
+id: 256
+description: "It's not enough to have lived. We should be determined to live for something. May I suggest that it be creating joy for others
+
+dn: cn=fortune-40,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-40
+author: African Proverb
+id: 40
+description: "When there is no enemy within
+
+dn: cn=fortune-181,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-181
+author: Oscar Wilde
+id: 181
+description: "Who
+
+dn: cn=fortune-201,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-201
+author: J.R.R. Tolkien
+id: 201
+description: Nothing is so strong as gentleness. Nothing is so gentle as real strength.
+
+dn: cn=fortune-285,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-285
+author: Franklin D. Roosevelt
+id: 285
+description: "Confidence...thrives on honesty
+
+dn: cn=fortune-183,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-183
+author: Peter F. Drucker
+id: 183
+description: The last of the human freedoms is to choose one's attitudes.
+
+dn: cn=fortune-77,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-77
+author: Chuck Palahniuk - Fight Club
+id: 77
+description: "Man
+
+dn: cn=fortune-142,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-142
+author: Benjamin Franklin
+id: 142
+description: Energy and persistence conquer all things.
+
+dn: cn=fortune-279,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-279
+author: Roy Disney
+id: 279
+description: "When your values are clear to you
+
+dn: cn=fortune-202,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-202
+author: Saint Francis de Sales
+id: 202
+description: "The real man smiles in trouble
+
+dn: cn=fortune-126,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-126
+author: Daisaku Ikeda
+id: 126
+description: "The person who lives life fully
+
+dn: cn=fortune-273,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-273
+author: John J. McCloy
+id: 273
+description: Humility leads to strength and not to weakness. It is the highest form of self-respect to admit mistakes and to make amends for them.
+
+dn: cn=fortune-35,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-35
+author: Thich Nhat Hanh
+id: 35
+description: "Sometimes your joy is the source of your smile
+
+dn: cn=fortune-18,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-18
+author: Taoist proverb
+id: 18
+description: We cannot see our reflection in running water. It is only in still water that we can.
+
+dn: cn=fortune-254,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-254
+author: William E. Simon
+id: 254
+description: "Infinitely more important than sharing one's material wealth is sharing the wealth of ourselves
+
+dn: cn=fortune-68,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-68
+author: Bob Basso
+id: 68
+description: "If it's not fun
+
+dn: cn=fortune-26,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-26
+author: Charles W. Chestnutt
+id: 26
+description: Impossibilities are merely things which we have not yet learned.
+
+dn: cn=fortune-9,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-9
+author: Martin Luther King Jr.
+id: 9
+description: "We must accept finite disappointment
+
+dn: cn=fortune-217,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-217
+author: Mark Twain
+id: 217
+description: I can live for two months on a good compliment.
+
+dn: cn=fortune-17,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-17
+author: Anais Nin
+id: 17
+description: "There is not one big cosmic meaning for all
+
+dn: cn=fortune-244,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-244
+author: Ross Parmenter
+id: 244
+description: "The need for devotion to something outside ourselves is even more profound than the need for companionship. If we are not to go to pieces or wither away
+
+dn: cn=fortune-55,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-55
+author: Doris Mortman
+id: 55
+description: "Until you make peace with who you are
+
+dn: cn=fortune-100,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-100
+author: Buddha
+id: 100
+description: Let yourself be open and life will be easier.
+
+dn: cn=fortune-261,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-261
+author: G. K. Chesterton
+id: 261
+description: Courage is almost a contradiction in terms: it means a strong desire to live taking the form of readiness to die.
+
+dn: cn=fortune-176,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-176
+author: Mary Ann Evans
+id: 176
+description: Men exist for the sake of one another. Teach them then or bear with them.
+
+dn: cn=fortune-21,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-21
+author: Chinese proverb
+id: 21
+description: One who asks a question is a fool for a minute; one who does not remains a fool forever.
+
+dn: cn=fortune-274,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-274
+author: William Penn
+id: 274
+description: Sense shines with a double luster when it is set in humility. An able and yet humble man is a jewel worth a kingdom.
+
+dn: cn=fortune-15,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-15
+author: Lao Tzu
+id: 15
+description: Silence is a source of great strength.
+
+dn: cn=fortune-39,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-39
+author: George Bernard Shaw
+id: 39
+description: We don't stop playing because we grow old; we grow old because we stop playing.
+
+dn: cn=fortune-70,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-70
+author: Chuck Palahniuk - Fight Club
+id: 70
+description: It's only after we've lost everything that we're free to do anything.
+
+dn: cn=fortune-156,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-156
+author: Yogi Bhajan
+id: 156
+description: "You are very powerful
+
+dn: cn=fortune-204,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-204
+author: Scottish Proverb
+id: 204
+description: Were it not for hope the heart would break.
+
+dn: cn=fortune-265,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-265
+author: Dr. Leo Buscaglia
+id: 265
+description: "Love yourself
+
+dn: cn=fortune-101,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-101
+author: Antoine de Saint-Exupéry
+id: 101
+description: "As for the future
+
+dn: cn=fortune-102,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-102
+author: Helen Keller
+id: 102
+description: One can never consent to creep when one feels an impulse to soar.
+
+dn: cn=fortune-287,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-287
+author: Laozi
+id: 287
+description: Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+
+dn: cn=fortune-94,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-94
+author: Chuck Palahniuk - Fight Club
+id: 94
+description: "This is your life
+
+dn: cn=fortune-229,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-229
+author: Anatole France
+id: 229
+description: "To accomplish great things
+
+dn: cn=fortune-259,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-259
+author: A. G. Trudeau
+id: 259
+description: Character is the total of thousands of small daily strivings to live up to the best that is in us.
+
+dn: cn=fortune-141,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-141
+author: Benjamin Franklin
+id: 141
+description: Who had deceived thee so often as thyself?
+
+dn: cn=fortune-167,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-167
+author: Seneca
+id: 167
+description: Luck is what happens when preparation meets opportunity.
+
+dn: cn=fortune-227,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-227
+author: Ralph Nichols
+id: 227
+description: The most basic of all human needs is the need to understand and be understood. The best way to understand people is to listen to them.
+
+dn: cn=fortune-258,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-258
+author: Dr. Thomas Fuller
+id: 258
+description: "I place a high moral value on the way people behave. I find it repellent to have a lot
+
+dn: cn=fortune-251,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-251
+author: Antoine de Sainte-Exupery
+id: 251
+description: "Only he can understand what a farm is
+
+dn: cn=fortune-200,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-200
+author: Plato
+id: 200
+description: Good actions give strength to ourselves and inspire good actions in others.
+
+dn: cn=fortune-6,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-6
+author: Marianne Williamson
+id: 6
+description: Joy is what happens to us when we allow ourselves to recognize how good things really are.
+
+dn: cn=fortune-289,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-289
+author: Les Brown
+id: 289
+description: If you take responsibility for yourself you will develop a hunger to accomplish your dreams.
+
+dn: cn=fortune-189,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-189
+author: Dietrich Bonhoeffer
+id: 189
+description: Put your ear down close to your soul and listen hard.
+
+dn: cn=fortune-67,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-67
+author: Goethe
+id: 67
+description: "Enjoy when you can
+
+dn: cn=fortune-84,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-84
+author: Chuck Palahniuk - Fight Club
+id: 84
+description: "Without pain
+
+dn: cn=fortune-296,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-296
+author: Orison Swett Marden
+id: 296
+description: Don't wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them.
+
+dn: cn=fortune-260,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-260
+author: Keshavan Nair
+id: 260
+description: "With courage you will dare to take risks
+
+dn: cn=fortune-159,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-159
+author: Thucydides
+id: 159
+description: The secret of happiness is freedom. The secret of freedom is courage.
+
+dn: cn=fortune-4,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-4
+author: Buddha
+id: 4
+description: What you are is what you have been. What you'll be is what you do now.
+
+dn: cn=fortune-103,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-103
+author: Albert Schweitzer
+id: 103
+description: Success is not the key to happiness. Happiness is the key to success.
+
+dn: cn=fortune-8,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-8
+author: Honore de Balzac
+id: 8
+description: "When you doubt your power
+
+dn: cn=fortune-218,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-218
+author: John Adams
+id: 218
+description: "It should be your care
+
+dn: cn=fortune-280,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-280
+author: Babe Ruth
+id: 280
+description: "The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world
+
+dn: cn=fortune-169,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-169
+author: Mark Twain
+id: 169
+description: Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
+dn: cn=fortune-252,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-252
+author: Democritus
+id: 252
+description: "The wise man belongs to all countries
+
+dn: cn=fortune-242,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-242
+author: Laozi
+id: 242
+description: Therefore hold to the things which are reliable. Look to simplicity; embrace purity; Lessen the self; diminish desire.
+
+dn: cn=fortune-152,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-152
+author: Irish Blessing
+id: 152
+description: May your home always be too small to hold all your friends.
+
+dn: cn=fortune-164,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-164
+author: Buddha
+id: 164
+description: "No matter how hard the past
+
+dn: cn=fortune-246,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-246
+author: Charles Dickens
+id: 246
+description: "Whatever I have tried to do in life
+
+dn: cn=fortune-60,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-60
+author: Julia Soul
+id: 60
+description: "If you are never scared
+
+dn: cn=fortune-148,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-148
+author: Eckhart Tolle
+id: 148
+description: "Whatever you fight
+
+dn: cn=fortune-249,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-249
+author: "Alfred Tennyson
+id: 249
+description:  1st Baron Tennyson"
+
+dn: cn=fortune-172,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-172
+author: Ralph Waldo Emmerson
+id: 172
+description: "Enthusiasm is the mother of effort
+
+dn: cn=fortune-58,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-58
+author: Albert Einstein
+id: 58
+description: "Knowledge and ego are directly related. The less knowledge
+
+dn: cn=fortune-130,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-130
+author: Pema Chodron
+id: 130
+description: Fear is a natural reaction to moving closer to the truth.
+
+dn: cn=fortune-206,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-206
+author: Hal Borland
+id: 206
+description: No winter lasts forever; no spring skips it's turn.
+
+dn: cn=fortune-194,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-194
+author: David Star Jordan
+id: 194
+description: Wisdom is knowing what to do next; virtue is doing it.
+
+dn: cn=fortune-190,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-190
+author: Anne Sexton
+id: 190
+description: "Man is so made that when anything fires his soul
+
+dn: cn=fortune-24,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-24
+author: Mary Pickford
+id: 24
+description: "If you have made mistakes
+
+dn: cn=fortune-188,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-188
+author: Booker T. Washington
+id: 188
+description: "Action springs not from thought
+
+dn: cn=fortune-131,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-131
+author: Benjamin Franklin
+id: 131
+description: Never leave that till tomorrow which you can do today.
+
+dn: cn=fortune-154,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-154
+author: Michelle C. Ustaszeski
+id: 154
+description: "Before someone's tomorrow has been taken away
+
+dn: cn=fortune-238,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-238
+author: Mark Twain
+id: 238
+description: "To be good is noble
+
+dn: cn=fortune-49,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-49
+author: Eckhart Tolle
+id: 49
+description: The past has no power to stop you from being present now. Only your grievance about the past can do that.
+
+dn: cn=fortune-123,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-123
+author: Nietzsche
+id: 123
+description: History is endured only by strong personalities -- the weak ones are extinguished by it.
+
+dn: cn=fortune-214,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-214
+author: Ralph W. Sockman
+id: 214
+description: The test of courage comes when we are in the minority. The test of tolerance comes when we are in the majority.
+
+dn: cn=fortune-140,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-140
+author: Benjamin Franklin
+id: 140
+description: "There are three things extremely hard: steel
+
+dn: cn=fortune-149,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-149
+author: Lin Yutang
+id: 149
+description: 'I have done my best.' That is about all the philosophy of living one needs.
+
+dn: cn=fortune-145,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-145
+author: Eckhart Tolle
+id: 145
+description: "Whatever the present moment contains
+
+dn: cn=fortune-118,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-118
+author: Wayne Dyer
+id: 118
+description: Judgments prevent us from seeing the good that lies beyond appearances.
+
+dn: cn=fortune-57,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-57
+author: George Bernard Shaw (1856 - 1950)
+id: 57
+description: The power of accurate observation is commonly called cynicism by those who have not got it.
+
+dn: cn=fortune-124,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-124
+author: zynamics developer about a control flow graph
+id: 124
+description: Does it just look nice or is it correct?
+
+dn: cn=fortune-128,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-128
+author: C.C. Scott
+id: 128
+description: The human spirit is stronger than anything that can happen to it.
+
+dn: cn=fortune-11,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-11
+author: Sam Keen
+id: 11
+description: "We come to love not by finding a perfect person
+
+dn: cn=fortune-44,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-44
+author: Jim Rohn
+id: 44
+description: Ideas can be life-changing. Sometimes all you need to open the door is just one more good idea.
+
+dn: cn=fortune-298,ou=Fortune,dc=16,dc=nasa
+objectClass: fortune
+objectClass: top
+cn: fortune-298
+author: Earl Nightingale
+id: 298
+description: A great attitude does much more than turn on the lights in our worlds; it seems to magically connect us to all sorts of serendipitous opportunities that were somehow absent before the change.

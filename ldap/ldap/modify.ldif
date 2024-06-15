@@ -1,0 +1,4 @@
+dn: cn={5}fortune,cn=schema,cn=config
+changetype: modify
+replace: olcObjectClasses
+olcObjectClasses: {0}( 1.3.6.1.4.1.4203.666.2.5 NAME 'fortune' DESC 'A fortune objectClass' SUP top STRUCTURAL MUST ( cn $ id $ description $ author ) )
